@@ -1,0 +1,4 @@
+#versions maintained
+fastapi[all]==0.115.0
+uvicorn[standard]==0.31.1
+sqlalchemy==2.0.35

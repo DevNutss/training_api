@@ -1,3 +1,6 @@
 swaggerUI -- used to test and debug API docs
 FastAPI integers swaggerUI cause it generates the docs into swaggerUI by itself 
 FastAPI support asynchronous programming, handling mult-tasking and data silmutaneously
+
+--------------------------
+with mongoDB and nosql
